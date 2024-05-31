@@ -1,0 +1,17 @@
+.about-page {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center; /* Align items horizontally to the center */
+    align-items: center; /* Align items vertically to the center */
+    height: 100vh; /* Adjust this to your needs */
+  }
+  
+  .about-content {
+    max-width: 50%; /* Adjust the width of the content */
+  }
+  
+  .about-image img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+  }
+  

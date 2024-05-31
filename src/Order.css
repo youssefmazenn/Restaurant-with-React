@@ -1,0 +1,44 @@
+.order-container {
+    font-family: Cursive, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .branch-select {
+    margin-bottom: 20px;
+  }
+  
+  .menu {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menu li {
+    margin-bottom: 10px;
+  }
+  
+  .payment-options {
+    margin-top: 20px;
+  }
+  
+  .credit-card-info {
+    margin-top: 20px;
+  }
+  
+  .finish-order-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #1d1d1d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .finish-order-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

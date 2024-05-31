@@ -1,0 +1,32 @@
+.reservation-container {
+    font-family: Cursive, sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .form-container {
+    margin-bottom: 30px;
+  }
+  
+  .select-input {
+    padding: 5px;
+  }
+  
+  .date-time-input {
+    padding: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .submit-button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+  }
+  
+  .reservation-details {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
